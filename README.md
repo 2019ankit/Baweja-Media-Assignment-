@@ -11,8 +11,11 @@ given city).
 --> source code: weather casting.py file
 
 --> run command on terminal: python wather casting.py
+
 --> output: enter city: Jaipur
+
 --> show the current temperature of Jaipur
+
 
 Task 2: SQL Task
 You are given a mock table called orders:
@@ -37,5 +40,6 @@ If you're familiar with Flask, build a basic web app with a single endpoint like
 /weather?city=London, which returns weather info (based on your API from Task 1). You can
 return results in JSON or display in a simple HTML page.
 
-Create a basic flask app of weather in which mock test data is feed 
+Create a basic flask app of weather
 source code: flask app.py
+
