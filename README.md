@@ -30,16 +30,17 @@ b) List all orders placed after '2023-01-03'.
 c) Get the customer(s) who made more than one order.
 
 
-source code: sql problem.txt
-run in SQL online database 
-create database, table and enter the data which is given in task 2
-solution is provided in file 
+--> source code: sql problem.txt
+--> run in SQL online database 
+--> create database, table and enter the data which is given in task 2
+--> solution is provided in file 
 
 Task 3: Flask Micro App
 If you're familiar with Flask, build a basic web app with a single endpoint like
 /weather?city=London, which returns weather info (based on your API from Task 1). You can
 return results in JSON or display in a simple HTML page.
 
-Create a basic flask app of weather
+--> Create a basic flask app of weather
+
 source code: flask app.py
 
