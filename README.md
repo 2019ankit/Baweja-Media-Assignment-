@@ -9,6 +9,7 @@ choice).
 given city).
 
 --> source code: weather casting.py file
+
 --> run command on terminal: python wather casting.py
 --> output: enter city: Jaipur
 --> show the current temperature of Jaipur
