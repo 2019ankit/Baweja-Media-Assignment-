@@ -31,8 +31,11 @@ c) Get the customer(s) who made more than one order.
 
 
 --> source code: sql problem.txt
+
 --> run in SQL online database 
+
 --> create database, table and enter the data which is given in task 2
+
 --> solution is provided in file 
 
 Task 3: Flask Micro App
