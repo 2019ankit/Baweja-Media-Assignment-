@@ -8,10 +8,10 @@ choice).
 (e.g., for a weather API – print current temperature and weather condition for a
 given city).
 
-source code: weather casting.py file
-run command on terminal: python wather casting.py
-output: enter city: Jaipur
-show the current temperature of Jaipur
+--> source code: weather casting.py file
+--> run command on terminal: python wather casting.py
+--> output: enter city: Jaipur
+--> show the current temperature of Jaipur
 
 Task 2: SQL Task
 You are given a mock table called orders:
